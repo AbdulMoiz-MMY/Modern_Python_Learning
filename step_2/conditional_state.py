@@ -9,9 +9,7 @@ Tra_signal =light_color.upper()
 
 if(Tra_signal == "RED"):
     print("Please stop and Wait the Green light.")
-elif(Tra_signal == "YELLOW
-
-"):
+elif(Tra_signal == "YELLOW"):
     print("Ready to cross the signal.")
 elif(Tra_signal == "GREEN"):
     print("Cross the signal.")
