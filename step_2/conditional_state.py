@@ -15,3 +15,5 @@ elif(Tra_signal == "GREEN"):
     print("Cross the signal.")
 elif(Tra_signal == "BLINK"):
     print("Carefully crossing the Road")
+else:
+    print("light is broken")
